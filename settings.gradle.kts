@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "WheelDatePickerLibrary"
-include(":app")
+//include(":app")
 include(":wheel-datepicker-lib")

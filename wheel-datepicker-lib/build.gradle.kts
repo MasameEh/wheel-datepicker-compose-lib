@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.sameh.wheel_date_picker"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         minSdk = 26
