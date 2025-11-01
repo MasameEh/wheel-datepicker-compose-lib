@@ -5,8 +5,14 @@
 [![Jetpack Compose](https://img.shields.io/badge/Built%20With-Jetpack%20Compose-blue.svg)](https://developer.android.com/jetpack/compose)
 A lightweight and elegant **Wheel Date Picker** built with **Jetpack Compose**
 
+
 ## Overview
-This library provides a **beautiful wheel-style date picker** component for Jetpack Compose. 
+This library provides a **beautiful wheel-style date picker** component for Jetpack Compose.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c0825fc7-6737-4b81-a6b8-58263c6b65a6" alt="Wheel DatePicker Preview" width="300"/>
+</p>
+
+
 ## Installation
 Add JitPack to your project-level `settings.gradle`:
 ```kotlin
